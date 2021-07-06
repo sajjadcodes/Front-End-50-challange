@@ -1,0 +1,25 @@
+
+
+body{
+    background-color: blueviolet;
+}
+
+.container{
+    display: flex;
+    height: 90vh;
+    position: relative;
+
+}
+.panel{
+    flex:0.5;
+    margin-right: 15px;
+    height: 80vh;
+    text-align: center;
+    
+}
+h3{
+    color:white;
+}
+.active{
+    flex:5;
+}
